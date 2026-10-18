@@ -1,0 +1,168 @@
+/* ---------- Services Page ---------- */
+
+.services-section {
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+#services-image{
+    background-image: url("../assets/images/PHOTO-2026-10-13-10-02-01.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/* ---------- Section Heading ---------- */
+
+.section-head {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 55px;
+    flex-direction: column;
+    height: 100vh;
+    padding:150px 0px;
+}
+.section-head h2{
+    color: white;
+}
+
+.section-head p {
+    margin-top: 15px;
+    color: white;
+    line-height: 1.8;
+    max-width: 700px;
+}
+
+
+/* ---------- Services Grid ---------- */
+
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+}
+
+
+/* ---------- Service Card ---------- */
+
+.service-card {
+    position: relative;
+    padding: 35px 32px;
+    background-color: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: 0.25s ease;
+}
+
+.service-card:hover {
+    border-color: var(--green);
+    transform: translateY(-5px);
+}
+
+
+/* ---------- Service Number ---------- */
+
+.service-number {
+    position: absolute;
+    top: 20px;
+    right: 25px;
+
+    color: rgba(1, 150, 120, 0.12);
+
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1;
+}
+
+
+/* ---------- Service Icon ---------- */
+
+.service-icon {
+    width: 55px;
+    height: 55px;
+
+    margin-bottom: 22px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: rgba(1, 150, 120, 0.1);
+    border-radius: 50%;
+
+    color: var(--green);
+    font-size: 1.35rem;
+}
+
+.service-icon i {
+    color: var(--green);
+}
+
+
+/* ---------- Service Title ---------- */
+
+.service-card h3 {
+    margin-bottom: 15px;
+
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+
+/* ---------- Service Description ---------- */
+
+.service-card p {
+    margin-bottom: 12px;
+
+    color: var(--muted);
+    font-size: 0.95rem;
+    line-height: 1.75;
+}
+
+.service-card p:last-child {
+    margin-bottom: 0;
+}
+
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 850px) {
+
+    .services-section {
+        padding-top: 60px;
+        padding-bottom: 70px;
+    }
+
+    .services-grid {
+        grid-template-columns: 1fr;
+    }
+
+}
+
+
+@media (max-width: 560px) {
+
+    .services-section {
+        padding-top: 45px;
+        padding-bottom: 55px;
+    }
+
+    .services-section .section-head {
+        margin-bottom: 35px;
+    }
+
+    .service-card {
+        padding: 28px 24px;
+    }
+
+    .service-card h3 {
+        font-size: 1.15rem;
+    }
+
+    .service-card p {
+        font-size: 0.9rem;
+    }
+
+}

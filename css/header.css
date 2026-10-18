@@ -1,0 +1,240 @@
+/* ---------- Top Bar ---------- */
+
+.top {
+    min-height: 45px;
+    width: 100%;
+    padding: 8px 5%;
+
+    background-color: var(--green-deep);
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+
+    color: white;
+    font-size: 0.9rem;
+}
+
+.socials {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.socials a {
+    transition: 0.2s;
+}
+
+.socials a:hover {
+    opacity: 0.7;
+}
+
+
+/* ---------- Navbar ---------- */
+
+nav {
+    min-height: 85px;
+    width: 100%;
+    padding: 15px 5%;
+
+    background-color: var(--bg);
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px 3rem;
+}
+
+nav .left {
+    display: flex;
+    align-items: center;
+}
+
+nav .logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
+nav .logo i {
+    color: var(--green);
+}
+
+nav .right {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px 30px;
+}
+
+.navlinks {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem 1rem;
+}
+
+.navlinks a {
+    display: block;
+
+    padding: 10px 14px;
+
+    border-radius: 5px;
+
+    font-size: 1rem;
+
+    transition: 0.2s;
+}
+
+.navlinks a:hover {
+    color: var(--green);
+}
+
+.navlinks .active {
+    background-color: var(--green);
+    color: white;
+}
+
+.navlinks .active:hover {
+    color: white;
+}
+
+.nav-btn {
+    display: inline-block;
+
+    padding: 13px 20px;
+
+    border: none;
+    border-radius: 5px;
+
+    background-color: var(--green);
+    color: white;
+
+    font-family: inherit;
+    font-size: 0.9rem;
+    font-weight: 700;
+
+    cursor: pointer;
+
+    transition: 0.2s;
+}
+
+.nav-btn:hover {
+    background-color: var(--green-dark);
+}
+
+
+/* ---------- Responsive Header ---------- */
+
+@media (max-width: 850px) {
+
+    .top {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .socials {
+        display: none;
+    }
+}
+
+@media (max-width: 560px) {
+
+    nav .logo {
+        font-size: 1.15rem;
+    }
+}
+
+/* Hamburger button - hidden on desktop */
+.menu-toggle {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    width: 42px;
+    height: 42px;
+    padding: 8px;
+    border: 1px solid var(--green);
+    border-radius: 8px;
+    background: transparent;
+    cursor: pointer;
+    z-index: 1001;
+}
+
+.menu-toggle span {
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: var(--green-dark);
+    border-radius: 2px;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+/* Animate hamburger into an X */
+.menu-toggle.active span:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+}
+
+.menu-toggle.active span:nth-child(2) {
+    opacity: 0;
+}
+
+.menu-toggle.active span:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg);
+}
+
+/* Mobile navigation */
+@media (max-width: 768px) {
+    .menu-toggle {
+        display: flex;
+    }
+
+    /* Keep the navigation container as the positioning reference */
+    nav {
+        position: relative;
+    }
+
+    .navlinks {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0;
+        padding: 12px 20px;
+        margin: 0;
+        background: white;
+        border-top: 1px solid #e5e7eb;
+        box-shadow: 0 8px 18px rgba(0, 0, 0, 0.08);
+        z-index: 1000;
+    }
+
+    .navlinks.open {
+        display: flex;
+    }
+
+    .navlinks li {
+        width: 100%;
+        list-style: none;
+    }
+
+    .navlinks a {
+        display: block;
+        width: 100%;
+        padding: 13px 12px;
+        border-radius: 6px;
+    }
+
+    .navlinks a:hover,
+    .navlinks a.active {
+        background-color: var(--green);
+        color: white;
+    }
+}

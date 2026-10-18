@@ -1,0 +1,85 @@
+/* ---------- About Page ---------- */
+
+#about{
+    background-image: url("../assets/images/PHOTO-2026-10-13-10-02-02.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 70vh;
+}
+
+/* ---------- Integrated Agriculture Model ---------- */
+
+.model-card {
+    padding: 35px 30px;
+
+    background-color: var(--bg);
+
+    border: 1px solid var(--border);
+    border-radius: 8px;
+}
+
+.model-card h3 {
+    margin-bottom: 22px;
+
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.model-note {
+    margin-top: 24px;
+
+    color: var(--muted);
+
+    font-size: 0.95rem;
+    line-height: 1.7;
+    text-align: center;
+}
+
+
+/* ---------- Vertical Agriculture Flow ---------- */
+
+.flow.vertical {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+
+    margin-bottom: 0;
+}
+
+.flow.vertical li {
+    flex-direction: column;
+    gap: 0;
+}
+
+.flow.vertical li span {
+    width: 100%;
+
+    padding: 13px 18px;
+
+    background-color: rgba(1, 150, 120, 1);
+
+    border-color: rgba(1, 150, 120,1);
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.flow.vertical li:not(:last-child)::after {
+    content: "\f063";
+
+    padding: 8px 0;
+}
+
+
+/* ---------- About Page Principle ---------- */
+
+.split-text .principle {
+    padding-left: 18px;
+
+    border-left: 3px solid var(--green);
+
+    color: black;
+
+    font-weight: 500;
+}
