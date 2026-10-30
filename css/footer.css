@@ -17,6 +17,10 @@ footer .logo {
     font-weight: 700;
 }
 
+footer .logo img{
+    height: 2rem;
+}
+
 footer .logo i {
     color: var(--green);
 }

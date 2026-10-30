@@ -59,6 +59,13 @@ nav .logo {
 
     font-size: 1.4rem;
     font-weight: 700;
+    
+    /* border: 2px solid red; */
+}
+
+nav .logo img{
+    height: 3rem;
+    /* border: 2px solid red; */
 }
 
 nav .logo i {
