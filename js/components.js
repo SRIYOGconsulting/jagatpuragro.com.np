@@ -23,6 +23,9 @@ document.addEventListener("DOMContentLoaded", () => {
             })
             .then(data => {
                 header.innerHTML = data;
+                if (window.initLanguageSwitcher) {
+                    window.initLanguageSwitcher();
+                }
                 // Hamburger menu functionality
                 const menuToggle = header.querySelector(".menu-toggle");
                 const navLinks = header.querySelector(".navlinks");
@@ -136,6 +139,12 @@ document.addEventListener("DOMContentLoaded", () => {
             })
             .then(data => {
                 footer.innerHTML = data;
+
+                if (window.applySiteLanguage) {
+                    window.applySiteLanguage(
+                        localStorage.getItem("jagatpuragro-language") || "en"
+                    );
+                }
             })
             .catch(error => {
                 console.error("Failed to load footer:", error);

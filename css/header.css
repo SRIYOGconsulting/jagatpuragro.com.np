@@ -188,6 +188,38 @@ nav .right {
     transform: translateY(-7px) rotate(-45deg);
 }
 
+/* Language Toggle */
+.language-switcher {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    white-space: nowrap;
+}
+
+.language-switcher button {
+    border: none;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+    cursor: pointer;
+    padding: 6px 4px;
+    opacity: 0.7;
+    transition: opacity 0.2s ease;
+}
+
+.language-switcher button:hover,
+.language-switcher button.active {
+    opacity: 1;
+    font-weight: 600;
+}
+
+.language-switcher button:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: 3px;
+    border-radius: 4px;
+}
+
+
 /* Mobile navigation */
 @media (max-width: 768px) {
     .menu-toggle {

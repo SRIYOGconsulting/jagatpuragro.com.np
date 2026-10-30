@@ -33,15 +33,21 @@
             <span></span>
         </button>
         <ul class="navlinks">
-            <li><a href="../index.html" data-page="home">Home</a></li>
-            <li><a href="../pages/about.html" data-page="about">About</a></li>
-            <li><a href="../pages/key-areas.html" data-page="key-areas">Key Areas</a></li>
-            <li><a href="../pages/services.html" data-page="services">Services</a></li>
-            <li><a href="../pages/contact.html" data-page="contact">Contact</a></li>
+            <li><a href="../index.html" data-page="home" data-i18n="nav.home">Home</a></li>
+            <li><a href="../pages/about.html" data-page="about" data-i18n="nav.about">About</a></li>
+            <li><a href="../pages/key-areas.html" data-page="key-areas" data-i18n="nav.keyAreas">Key Areas</a></li>
+            <li><a href="../pages/services.html" data-page="services" data-i18n="nav.services">Services</a></li>
+            <li><a href="../pages/contact.html" data-page="contact" data-i18n="nav.contact">Contact</a></li>
         </ul>
 
-        <a href="../pages/contact.html#contact-details" class="nav-btn">
+        <a href="../pages/contact.html#contact-details" class="nav-btn" data-i18n="nav.getInTouch">
             Get in Touch
         </a>
+
+        <div class="language-switcher" aria-label="Select language">
+            <button type="button" data-lang="en" class="active" aria-pressed="true">EN</button>
+            <span aria-hidden="true">|</span>
+            <button type="button" data-lang="ne" aria-pressed="false">नेपाली</button>
+        </div>
     </div>
 </nav>
