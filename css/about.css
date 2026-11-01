@@ -8,6 +8,40 @@
     min-height: 70vh;
 }
 
+.about-hero {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.about-hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.45);
+}
+
+.about-hero-content {
+    position: relative;
+    z-index: 1;
+    max-width: 850px;
+    padding: 30px 20px;
+    color: #fff;
+}
+
+.about-hero-content h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 15px;
+}
+
+.about-hero-content p {
+    font-size: clamp(1rem, 2vw, 1.25rem);
+    font-weight: 400;
+}
 /* ---------- Integrated Agriculture Model ---------- */
 
 .model-card {

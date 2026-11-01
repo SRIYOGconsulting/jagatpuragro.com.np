@@ -82,7 +82,39 @@ window.translations = {
         "home.commitmentTitle": "Our Commitment to Farmers",
         "home.commitmentIntro": "We see farmers as partners in agricultural development.",
         "home.commitmentDescription": "Through collaboration, we aim to connect farmers with improved livestock genetics, feed resources, production knowledge and agricultural opportunities.",
-        "home.commitmentGoal": "Our long-term goal is to contribute to a stronger, more productive and sustainable livestock and agriculture sector in Nepal."
+        "home.commitmentGoal": "Our long-term goal is to contribute to a stronger, more productive and sustainable livestock and agriculture sector in Nepal.",
+
+        "about.title": "About Us",
+
+        "about.intro": "Jagatpur Agro Pvt. Ltd. is an agriculture and livestock enterprise based in Bharatpur, Chitwan, Nepal.",
+
+        "about.history": "Our journey began with a commitment to improving Boer goat farming in Nepal. Starting in B.S. 2070/71, we began our Boer goat farming activities and, in B.S. 2072, imported 113 purebred Boer goats from South Africa to establish a systematic breeding program.",
+
+        "about.boerKranti": "This foundation became the beginning of our \"Boer Kranti\" initiative.",
+
+        "about.expansion": "Over the years, our focus has expanded beyond goat breeding. We are developing an integrated agricultural model that combines livestock production, maize cultivation, silage production and organic fertilizer.",
+
+        "about.principle": "Our approach is based on a simple principle: livestock farming and agriculture can support each other.",
+
+        "about.cycle": "Maize can become silage for livestock. Livestock manure can become organic fertilizer for agricultural fields. Quality breeding genetics can improve livestock productivity. Farmers can participate throughout this interconnected production cycle.",
+
+        "about.modelTitle": "Our Integrated Agriculture Model",
+
+        "about.maize": "Maize",
+        "about.silage": "Silage",
+        "about.livestock": "Livestock",
+        "about.manure": "Manure",
+        "about.organicFertilizer": "Organic Fertilizer",
+        "about.agriculturalSoil": "Agricultural Soil",
+        "about.cropProduction": "Crop Production",
+        "about.livestockFeed": "Livestock Feed",
+
+        "about.modelNote": "This approach helps us work toward a more efficient and sustainable agricultural system.",
+
+        "about.quote": "\"From 113 purebred Boer goats to a new generation of integrated agriculture.\"",
+        "about.heroTitle": "Growing Together, Building a Sustainable Future.",
+        "about.heroSubtitle": "Rooted in Agriculture, Driven by Innovation."
+
 
     },
 
@@ -168,6 +200,42 @@ window.translations = {
         "home.commitmentTitle": "किसानप्रति हाम्रो प्रतिबद्धता",
         "home.commitmentIntro": "हामी किसानहरूलाई कृषि विकासका साझेदारका रूपमा हेर्छौँ।",
         "home.commitmentDescription": "सहकार्यका माध्यमबाट किसानहरूलाई उन्नत पशु आनुवंशिक स्रोत, पशु आहार, उत्पादनसम्बन्धी ज्ञान र कृषि अवसरहरूसँग जोड्ने हाम्रो प्रयास हो।",
-        "home.commitmentGoal": "नेपालको पशुपालन तथा कृषि क्षेत्रलाई अझ सबल, उत्पादनशील र दिगो बनाउन योगदान पुर्‍याउनु हाम्रो दीर्घकालीन लक्ष्य हो।"
+        "home.commitmentGoal": "नेपालको पशुपालन तथा कृषि क्षेत्रलाई अझ सबल, उत्पादनशील र दिगो बनाउन योगदान पुर्‍याउनु हाम्रो दीर्घकालीन लक्ष्य हो।",
+
+
+
+        "about.title": "हाम्रो बारेमा",
+
+        "about.intro": "जगतपुर एग्रो प्रा. लि. नेपालको चितवन जिल्लाको भरतपुरमा अवस्थित एक कृषि तथा पशुपालन उद्यम हो।",
+
+        "about.history": "नेपालमा बोयर बाख्रापालनको विकास गर्ने प्रतिबद्धताबाट हाम्रो यात्रा सुरु भएको हो। वि.सं. २०७०/७१ देखि हामीले बोयर बाख्रापालन सुरु गर्‍यौँ र वि.सं. २०७२ मा व्यवस्थित प्रजनन कार्यक्रम स्थापना गर्न दक्षिण अफ्रिकाबाट ११३ वटा शुद्ध नश्लका बोयर बाख्रा आयात गर्‍यौँ।",
+
+        "about.boerKranti": "यही आधारबाट हाम्रो \"बोयर क्रान्ति\" अभियानको सुरुवात भयो।",
+
+        "about.expansion": "वर्षौँसँगै हाम्रो कार्यक्षेत्र बाख्रा प्रजननमा मात्र सीमित रहेन। हामी पशुपालन, मकै खेती, साइलेज उत्पादन र जैविक मललाई समेट्ने एकीकृत कृषि प्रणाली विकास गर्दैछौँ।",
+
+        "about.principle": "हाम्रो दृष्टिकोण एउटा सरल सिद्धान्तमा आधारित छ: पशुपालन र कृषि एकअर्काका पूरक बन्न सक्छन्।",
+
+        "about.cycle": "मकैलाई पशुका लागि साइलेज बनाउन सकिन्छ। पशुको मललाई कृषि क्षेत्रका लागि जैविक मलमा रूपान्तरण गर्न सकिन्छ। गुणस्तरीय प्रजनन नश्लले पशुको उत्पादकत्व बढाउन सक्छ। यस अन्तरसम्बन्धित उत्पादन चक्रमा किसानहरूले विभिन्न चरणमा सहभागी हुन सक्छन्।",
+
+        "about.modelTitle": "हाम्रो एकीकृत कृषि प्रणाली",
+
+        "about.maize": "मकै",
+        "about.silage": "साइलेज",
+        "about.livestock": "पशुपालन",
+        "about.manure": "गोबर तथा पशु मल",
+        "about.organicFertilizer": "जैविक मल",
+        "about.agriculturalSoil": "कृषियोग्य माटो",
+        "about.cropProduction": "बाली उत्पादन",
+        "about.livestockFeed": "पशु आहार",
+
+        "about.modelNote": "यस दृष्टिकोणले अझ प्रभावकारी र दिगो कृषि प्रणाली निर्माण गर्ने हाम्रो लक्ष्यलाई सहयोग गर्छ।",
+
+        "about.quote": "\"११३ वटा शुद्ध नश्लका बोयर बाख्राबाट एकीकृत कृषिको नयाँ पुस्तासम्मको यात्रा।\"",
+
+        "about.heroTitle": "सँगै अघि बढ्दै, दिगो भविष्य निर्माण गर्दै।",
+        "about.heroSubtitle": "कृषिमा जरा गाडेर, नवीनताबाट प्रेरित।"
+
+
     }
 };
