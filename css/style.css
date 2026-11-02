@@ -205,7 +205,7 @@ button:focus-visible {
 /* ---------- Shared Section Layout ---------- */
 
 .section {
-    padding: 90px 8%;
+    padding: 40px 8%;
 
     background-color: var(--bg);
 }
@@ -347,6 +347,9 @@ button:focus-visible {
 }
 #organic-fertilizer-image{
     background-image: url("../assets/images/organic-fertilizer.jpg");
+}
+#farmer-image{
+    background-image: url("../assets/images/farmers.jpg");
 }
 
 hr{

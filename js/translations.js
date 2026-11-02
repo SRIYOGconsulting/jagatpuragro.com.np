@@ -113,7 +113,83 @@ window.translations = {
 
         "about.quote": "\"From 113 purebred Boer goats to a new generation of integrated agriculture.\"",
         "about.heroTitle": "Growing Together, Building a Sustainable Future.",
-        "about.heroSubtitle": "Rooted in Agriculture, Driven by Innovation."
+        "about.heroSubtitle": "Rooted in Agriculture, Driven by Innovation.",
+
+
+        // ================= KEY AREAS =================
+
+        // Boer Kranti
+        "keyareas.boer.title": "Boer Kranti",
+        "keyareas.boer.tagline": "Pure Genetics. Systematic Breeding. Better Livestock.",
+        "keyareas.boer.intro": "\"Boer Kranti\" is the distinctive Boer goat breeding initiative of Jagatpur Agro.",
+        "keyareas.boer.history": "Our Boer breeding journey began with 113 purebred Boer goats imported from South Africa in B.S. 2072. Building on this foundation, we have continued a systematic breeding program focused on maintaining quality genetics and developing superior breeding stock.",
+        "keyareas.boer.management": "Our management system emphasizes proper identification and record keeping, including:",
+        "keyareas.boer.record1": "Date of birth",
+        "keyareas.boer.record2": "Tag number",
+        "keyareas.boer.record3": "Weight",
+        "keyareas.boer.record4": "Health records",
+        "keyareas.boer.record5": "Vaccination records",
+        "keyareas.boer.record6": "Breeding history",
+        "keyareas.boer.record7": "Pedigree information",
+        "keyareas.boer.objective": "Our objective is to provide farmers and commercial livestock entrepreneurs with reliable breeding resources that can contribute to productive and sustainable goat farming.",
+        "keyareas.boer.button": "Learn About Boer Kranti",
+
+        // Silage
+        "keyareas.silage.title": "Silage",
+        "keyareas.silage.tagline": "Scientific Feed Solutions for Modern Livestock Farming",
+        "keyareas.silage.intro": "Good livestock production depends on good nutrition.",
+        "keyareas.silage.description": "Jagatpur Agro works with farmers to connect maize cultivation with scientific silage production. Maize can be harvested at the appropriate stage, processed and safely preserved as silage, providing a valuable feed resource for livestock.",
+        "keyareas.silage.systemTitle": "Our silage system connects:",
+        "keyareas.silage.step1": "Seed",
+        "keyareas.silage.step2": "Maize Production",
+        "keyareas.silage.step3": "Harvesting",
+        "keyareas.silage.step4": "Chopping",
+        "keyareas.silage.step5": "Silage Production",
+        "keyareas.silage.step6": "Safe Storage",
+        "keyareas.silage.step7": "Animal Feed",
+        "keyareas.silage.description2": "Silage can help farmers manage livestock feed throughout the year, particularly during periods when fresh green fodder is less available.",
+        "keyareas.silage.benefitsTitle": "Benefits include:",
+        "keyareas.silage.benefit1": "Year-round feed management",
+        "keyareas.silage.benefit2": "Better utilization of maize production",
+        "keyareas.silage.benefit3": "Reliable green-feed alternatives",
+        "keyareas.silage.benefit4": "Long-term feed preservation",
+        "keyareas.silage.benefit5": "Improved farm feed planning",
+        "keyareas.silage.benefit6": "Support for commercial livestock farms",
+        "keyareas.silage.button": "Learn About Our Silage",
+
+        // Organic Fertilizer
+        "keyareas.fertilizer.title": "Organic Fertilizer",
+        "keyareas.fertilizer.tagline": "From Livestock Farming to Soil Nutrition",
+        "keyareas.fertilizer.intro": "At Jagatpur Agro, we believe agricultural resources should not go to waste.",
+        "keyareas.fertilizer.description": "Cow dung and goat manure generated through livestock farming can be processed and returned to agriculture as valuable organic resources.",
+        "keyareas.fertilizer.systemTitle": "Our organic fertilizer concept follows a circular system:",
+        "keyareas.fertilizer.step1": "Cow Dung + Goat Manure + Organic Resources",
+        "keyareas.fertilizer.step2": "Processing",
+        "keyareas.fertilizer.step3": "Maturation / Drying",
+        "keyareas.fertilizer.step4": "Organic Fertilizer",
+        "keyareas.fertilizer.step5": "Agricultural Fields",
+        "keyareas.fertilizer.description2": "This approach connects livestock farming with crop production while supporting better utilization of organic materials.",
+        "keyareas.fertilizer.goalTitle": "Our goal is to contribute to:",
+        "keyareas.fertilizer.goal1": "Improved soil organic matter",
+        "keyareas.fertilizer.goal2": "Better soil structure",
+        "keyareas.fertilizer.goal3": "Nutrient management",
+        "keyareas.fertilizer.goal4": "Sustainable agricultural practices",
+        "keyareas.fertilizer.goal5": "Productive utilization of livestock waste",
+        "keyareas.fertilizer.goal6": "Circular agriculture",
+        "keyareas.fertilizer.button": "Learn About Organic Fertilizer",
+
+        // Farmer Collaboration
+        "keyareas.farmer.title": "Farmer Collaboration",
+        "keyareas.farmer.tagline": "Growing Together, Building a Sustainable Future",
+        "keyareas.farmer.intro": "At Jagatpur Agro, we believe that sustainable agriculture begins with strong partnerships. Our Farmers Collaboration initiative aims to empower local farmers through improved agricultural practices, quality resources, and practical knowledge.",
+        "keyareas.farmer.description": "We work closely with farming communities to improve agricultural productivity, encourage sustainable farming, and create better opportunities for rural livelihoods.",
+        "keyareas.farmer.benefit1": "Knowledge sharing and improved farming techniques",
+        "keyareas.farmer.benefit2": "Access to quality agricultural resources",
+        "keyareas.farmer.benefit3": "Technical guidance and farm management support",
+        "keyareas.farmer.benefit4": "Strengthening local farming communities",
+        "keyareas.farmer.benefit5": "Promoting sustainable agricultural practices",
+        "keyareas.farmer.button": "Learn About Farmer Collaboration"
+
 
 
     },
@@ -163,9 +239,9 @@ window.translations = {
         "home.silageTitle": "साइलेज उत्पादन",
         "home.silageDescription": "वर्षभरि पशुपालनका लागि भरपर्दो र पौष्टिक आहार उपलब्ध गराउन स्थानीय रूपमा उत्पादित मकैबाट गुणस्तरीय साइलेज उत्पादन।",
         "home.fertilizerTitle": "जैविक मल",
-        "home.fertilizerDescription": "पशु मल तथा अन्य जैविक स्रोतहरूबाट तयार गरिएको मल, जसले कृषि माटोमा आवश्यक पोषक तत्त्वहरू पुनः उपलब्ध गराउँछ।",
+        "home.fertilizerDescription": "पशु तथा अन्य जैविक स्रोतहरूबाट तयार गरिएको मल, जसले कृषि माटोमा आवश्यक पोषक तत्त्वहरू पुनः उपलब्ध गराउँछ।",
         "home.farmerTitle": "किसानसँग सहकार्य",
-        "home.farmerDescription": "कृषि उत्पादन, पशुपालन, पशु आहार उत्पादन र बजारका अवसरहरूलाई जोड्न किसानहरूसँग सहकार्य।",
+        "home.farmerDescription": "कृषि उत्पादन, पशुपालन, पशु आहार उत्पादन र बजारका अवसरहरूलाई जोड्न स्थानीय किसानहरूसँग सहकार्य।",
 
         "home.philosophyTitle": "हाम्रो बोयर बाख्रा प्रजनन दर्शन",
         "home.philosophyDescription": "हाम्रो विश्वासमा गुणस्तरीय पशुपालनको सुरुवात राम्रो आनुवंशिक स्रोत र उचित व्यवस्थापनबाट हुन्छ।",
@@ -234,7 +310,82 @@ window.translations = {
         "about.quote": "\"११३ वटा शुद्ध नश्लका बोयर बाख्राबाट एकीकृत कृषिको नयाँ पुस्तासम्मको यात्रा।\"",
 
         "about.heroTitle": "सँगै अघि बढ्दै, दिगो भविष्य निर्माण गर्दै।",
-        "about.heroSubtitle": "कृषिमा जरा गाडेर, नवीनताबाट प्रेरित।"
+        "about.heroSubtitle": "कृषिमा जरा गाडेर, नवीनताबाट प्रेरित।",
+
+        // ================= KEY AREAS =================
+
+        // Boer Kranti
+        "keyareas.boer.title": "बोयर क्रान्ति",
+        "keyareas.boer.tagline": "शुद्ध नश्ल। व्यवस्थित प्रजनन। उत्कृष्ट पशुधन।",
+        "keyareas.boer.intro": "\"बोयर क्रान्ति\" जगतपुर एग्रोको विशिष्ट बोयर बाख्रा प्रजनन अभियान हो।",
+        "keyareas.boer.history": "हाम्रो बोयर प्रजनन यात्रा वि.सं. २०७२ मा दक्षिण अफ्रिकाबाट ११३ वटा शुद्ध नश्लका बोयर बाख्रा आयात गरेसँगै सुरु भएको हो। यसै आधारमा हामीले गुणस्तरीय आनुवंशिक स्रोत कायम राख्ने र उत्कृष्ट प्रजननयोग्य बाख्रा विकास गर्ने उद्देश्यसहित व्यवस्थित प्रजनन कार्यक्रमलाई निरन्तरता दिँदै आएका छौँ।",
+        "keyareas.boer.management": "हाम्रो व्यवस्थापन प्रणालीले उचित पहिचान र अभिलेख राख्ने कार्यलाई प्राथमिकता दिन्छ, जसमा निम्न विवरणहरू समावेश छन्:",
+        "keyareas.boer.record1": "जन्म मिति",
+        "keyareas.boer.record2": "ट्याग नम्बर",
+        "keyareas.boer.record3": "तौल",
+        "keyareas.boer.record4": "स्वास्थ्य अभिलेख",
+        "keyareas.boer.record5": "खोप अभिलेख",
+        "keyareas.boer.record6": "प्रजनन इतिहास",
+        "keyareas.boer.record7": "वंशावली विवरण",
+        "keyareas.boer.objective": "हाम्रो उद्देश्य किसान तथा व्यावसायिक पशुपालन उद्यमीहरूलाई उत्पादनशील र दिगो बाख्रापालनमा योगदान पुर्‍याउन सक्ने भरपर्दो प्रजनन स्रोतहरू उपलब्ध गराउनु हो।",
+        "keyareas.boer.button": "बोयर क्रान्तिबारे जान्नुहोस्",
+
+        // Silage
+        "keyareas.silage.title": "साइलेज",
+        "keyareas.silage.tagline": "आधुनिक पशुपालनका लागि वैज्ञानिक पशु आहार समाधान",
+        "keyareas.silage.intro": "राम्रो पशु उत्पादनका लागि पोषणयुक्त आहार आवश्यक हुन्छ।",
+        "keyareas.silage.description": "जगतपुर एग्रोले मकै खेतीलाई वैज्ञानिक साइलेज उत्पादनसँग जोड्न किसानहरूसँग सहकार्य गर्छ। मकैलाई उपयुक्त अवस्थामा काटेर प्रशोधन गरी सुरक्षित रूपमा साइलेजको रूपमा भण्डारण गर्न सकिन्छ, जसले पशुहरूका लागि महत्वपूर्ण आहार स्रोत प्रदान गर्छ।",
+        "keyareas.silage.systemTitle": "हाम्रो साइलेज प्रणालीले निम्न चरणहरूलाई जोड्छ:",
+        "keyareas.silage.step1": "बीउ",
+        "keyareas.silage.step2": "मकै उत्पादन",
+        "keyareas.silage.step3": "बाली कटानी",
+        "keyareas.silage.step4": "काट्ने तथा टुक्र्याउने",
+        "keyareas.silage.step5": "साइलेज उत्पादन",
+        "keyareas.silage.step6": "सुरक्षित भण्डारण",
+        "keyareas.silage.step7": "पशु आहार",
+        "keyareas.silage.description2": "विशेषगरी ताजा हरियो घाँस कम उपलब्ध हुने समयमा साइलेजले किसानहरूलाई वर्षभरि पशु आहार व्यवस्थापन गर्न सहयोग पुर्‍याउन सक्छ।",
+        "keyareas.silage.benefitsTitle": "यसका फाइदाहरू:",
+        "keyareas.silage.benefit1": "वर्षभरि पशु आहार व्यवस्थापन",
+        "keyareas.silage.benefit2": "मकै उत्पादनको प्रभावकारी उपयोग",
+        "keyareas.silage.benefit3": "हरियो घाँसको भरपर्दो विकल्प",
+        "keyareas.silage.benefit4": "लामो समयसम्म पशु आहार संरक्षण",
+        "keyareas.silage.benefit5": "खेतका लागि सुधारिएको आहार योजना",
+        "keyareas.silage.benefit6": "व्यावसायिक पशुपालन फार्महरूलाई सहयोग",
+        "keyareas.silage.button": "हाम्रो साइलेजबारे जान्नुहोस्",
+
+        // Organic Fertilizer
+        "keyareas.fertilizer.title": "जैविक मल",
+        "keyareas.fertilizer.tagline": "पशुपालनदेखि माटोको पोषणसम्म",
+        "keyareas.fertilizer.intro": "जगतपुर एग्रोमा हामी कृषि स्रोतहरू खेर जानु हुँदैन भन्ने विश्वास गर्छौँ।",
+        "keyareas.fertilizer.description": "पशुपालनबाट उत्पादन हुने गाईको गोबर तथा बाख्राको मललाई प्रशोधन गरी उपयोगी जैविक स्रोतका रूपमा पुनः कृषिमा प्रयोग गर्न सकिन्छ।",
+        "keyareas.fertilizer.systemTitle": "हाम्रो जैविक मलको अवधारणा चक्रीय प्रणालीमा आधारित छ:",
+        "keyareas.fertilizer.step1": "गाईको गोबर + बाख्राको मल + जैविक स्रोतहरू",
+        "keyareas.fertilizer.step2": "प्रशोधन",
+        "keyareas.fertilizer.step3": "परिपक्व बनाउने / सुकाउने",
+        "keyareas.fertilizer.step4": "जैविक मल",
+        "keyareas.fertilizer.step5": "कृषि क्षेत्र",
+        "keyareas.fertilizer.description2": "यस दृष्टिकोणले जैविक पदार्थहरूको उचित उपयोगलाई प्रोत्साहन गर्दै पशुपालन र बाली उत्पादनलाई एकआपसमा जोड्छ।",
+        "keyareas.fertilizer.goalTitle": "हाम्रा लक्ष्यहरू:",
+        "keyareas.fertilizer.goal1": "माटोमा जैविक पदार्थको मात्रा सुधार",
+        "keyareas.fertilizer.goal2": "माटोको संरचनामा सुधार",
+        "keyareas.fertilizer.goal3": "पोषक तत्वको व्यवस्थापन",
+        "keyareas.fertilizer.goal4": "दिगो कृषि अभ्यासहरू",
+        "keyareas.fertilizer.goal5": "पशुजन्य फोहोरको प्रभावकारी उपयोग",
+        "keyareas.fertilizer.goal6": "चक्रीय कृषि प्रणाली",
+        "keyareas.fertilizer.button": "जैविक मलको बारेमा जान्नुहोस्",
+
+        // Farmer Collaboration
+        "keyareas.farmer.title": "किसान सहकार्य",
+        "keyareas.farmer.tagline": "सँगै अघि बढ्दै, दिगो भविष्य निर्माण गर्दै",
+        "keyareas.farmer.intro": "जगतपुर एग्रोमा हामी दिगो कृषि बलियो सहकार्यबाट सुरु हुन्छ भन्ने विश्वास गर्छौँ। हाम्रो किसान सहकार्य अभियानले सुधारिएको कृषि अभ्यास, गुणस्तरीय स्रोतसाधन र व्यावहारिक ज्ञानमार्फत स्थानीय किसानहरूलाई सशक्त बनाउने लक्ष्य राखेको छ।",
+        "keyareas.farmer.description": "हामी कृषि उत्पादकत्व सुधार गर्न, दिगो खेतीलाई प्रोत्साहन गर्न र ग्रामीण जीविकोपार्जनका लागि राम्रो अवसरहरू सिर्जना गर्न कृषक समुदायसँग नजिकबाट सहकार्य गर्छौँ।",
+        "keyareas.farmer.benefit1": "ज्ञान आदानप्रदान तथा सुधारिएका खेती प्रविधिहरू",
+        "keyareas.farmer.benefit2": "गुणस्तरीय कृषि स्रोतसाधनमा पहुँच",
+        "keyareas.farmer.benefit3": "प्राविधिक मार्गदर्शन तथा कृषि व्यवस्थापन सहयोग",
+        "keyareas.farmer.benefit4": "स्थानीय कृषक समुदायको सुदृढीकरण",
+        "keyareas.farmer.benefit5": "दिगो कृषि अभ्यासहरूको प्रवर्द्धन",
+        "keyareas.farmer.button": "किसान सहकार्यबारे जान्नुहोस्"
+
 
 
     }
