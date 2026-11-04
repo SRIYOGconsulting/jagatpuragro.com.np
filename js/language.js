@@ -26,6 +26,14 @@
             button.setAttribute("aria-pressed", String(selected));
         });
 
+        document.querySelectorAll("[data-i18n-placeholder]").forEach(element => {
+            const key = element.dataset.i18nPlaceholder;
+
+            if (dictionary[key] !== undefined) {
+                element.placeholder = dictionary[key];
+            }
+        });
+
         localStorage.setItem(STORAGE_KEY, language);
     }
 

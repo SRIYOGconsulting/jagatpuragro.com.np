@@ -188,7 +188,115 @@ window.translations = {
         "keyareas.farmer.benefit3": "Technical guidance and farm management support",
         "keyareas.farmer.benefit4": "Strengthening local farming communities",
         "keyareas.farmer.benefit5": "Promoting sustainable agricultural practices",
-        "keyareas.farmer.button": "Learn About Farmer Collaboration"
+        "keyareas.farmer.button": "Learn About Farmer Collaboration",
+
+
+        // Services Page
+        "services.title": "Our Services",
+        "services.tagline": "We provide integrated agricultural and livestock services focused on quality breeding, feed production, farmer collaboration and sustainable agricultural practices.",
+
+        // 01 - Boer Goat Breeding
+        "services.boerBreeding.title": "Boer Goat Breeding",
+        "services.boerBreeding.desc1": "We specialize in Boer goat breeding with a focus on quality genetics, systematic breeding and proper livestock management.",
+        "services.boerBreeding.desc2": "Our breeding program originated from 113 purebred Boer goats imported from South Africa and continues to focus on developing quality breeding stock.",
+
+        // 02 - Purebred Boer Goats
+        "services.purebred.title": "Purebred Boer Goats",
+        "services.purebred.desc1": "We develop and maintain purebred Boer goats for farmers, commercial livestock farms and breeding programs.",
+        "services.purebred.desc2": "Our focus includes proper identification, health monitoring, breeding records and pedigree-based management.",
+
+        // 03 - Improved Boer Goat Breeding
+        "services.improvedBreeding.title": "Improved Boer Goat Breeding",
+        "services.improvedBreeding.desc1": "Our breeding program can support the development of improved goats through planned breeding and quality breeding stock.",
+        "services.improvedBreeding.desc2": "The objective is to combine desirable Boer characteristics with suitable livestock production systems in Nepal.",
+
+        // 04 - Silage Production
+        "services.silage.title": "Silage Production",
+        "services.silage.desc1": "We produce quality silage as a livestock feed resource and work with farmers to connect maize production with silage production.",
+        "services.silage.desc2": "Our process includes maize cultivation, harvesting, chopping, processing, preservation and storage.",
+
+        // 05 - Maize Production Collaboration
+        "services.maize.title": "Maize Production Collaboration",
+        "services.maize.desc1": "We collaborate with farmers in maize cultivation by supporting the production process and connecting harvested maize with silage production.",
+        "services.maize.desc2": "This creates an opportunity for farmers to generate additional value from maize production.",
+
+        // 06 - Organic Fertilizer
+        "services.fertilizer.title": "Organic Fertilizer",
+        "services.fertilizer.desc1": "We work toward producing organic fertilizer using livestock manure and other organic resources.",
+        "services.fertilizer.desc2": "Cow dung and goat manure can be processed, matured and utilized as agricultural fertilizer, supporting the recycling of nutrients from livestock farming back into the soil.",
+
+        // 07 - Farmer Collaboration
+        "services.farmer.title": "Farmer Collaboration",
+        "services.farmer.desc1": "We work with farmers, livestock entrepreneurs and agricultural stakeholders to develop integrated production systems.",
+        "services.farmer.desc2": "Our approach focuses on creating practical connections between farming, livestock, feed and agricultural resources.",
+
+        // 08 - Livestock Farming Support
+        "services.livestock.title": "Livestock Farming Support",
+        "services.livestock.desc1": "We promote better livestock management through proper nutrition, breeding records, health management and planned production practices.",
+        "services.livestock.desc2": "Our objective is to help farmers build productive and sustainable livestock enterprises.",
+
+
+        // Contact Page
+        "contact.heroEyebrow": "CONTACT JAGATPUR AGRO",
+        "contact.heroTitle": "Let's Build a Better Agricultural Future Together",
+        "contact.heroDescription": "Whether you are interested in Boer goats, breeding stock, silage, maize production collaboration or organic fertilizer, our team would be happy to hear from you.",
+
+        "contact.getInTouch": "GET IN TOUCH",
+        "contact.intro": "Connect with us to explore opportunities in livestock farming, feed production and sustainable agriculture.",
+
+        "contact.phone": "Phone",
+        "contact.email": "Email",
+        "contact.address": "Address",
+        "contact.addressName": "Bharatpur, Chitwan, Nepal",
+
+        "contact.businessAreas": "Business Areas",
+        "contact.area1": "Boer Goat Breeding",
+        "contact.area2": "Purebred Boer Goats",
+        "contact.area3": "Improved Goat Breeding",
+        "contact.area4": "Silage Production",
+        "contact.area5": "Maize Production",
+        "contact.area6": "Organic Fertilizer",
+        "contact.area7": "Farmer Collaboration",
+
+        "contact.tagline": "\"Quality Genetics. Sustainable Agriculture. Better Future.\"",
+
+        "contact.formEyebrow": "WE'D LOVE TO HEAR FROM YOU",
+        "contact.formTitle": "Send Us an Inquiry",
+        "contact.formDescription": "Fill out the form below and let us know how we can help you.",
+
+        "contact.fullName": "Full Name",
+        "contact.namePlaceholder": "Enter your full name",
+        "contact.phoneNumber": "Phone Number",
+        "contact.phonePlaceholder": "Enter your phone number",
+        "contact.emailAddress": "Email Address",
+        "contact.emailPlaceholder": "Enter your email address",
+
+        "contact.subject": "Subject",
+        "contact.selectInquiry": "Select an inquiry type",
+        "contact.option1": "Boer Goat Breeding",
+        "contact.option2": "Purebred Boer Goats",
+        "contact.option3": "Improved Goat Breeding",
+        "contact.option4": "Silage Production",
+        "contact.option5": "Maize Production Collaboration",
+        "contact.option6": "Organic Fertilizer",
+        "contact.option7": "Farmer Collaboration",
+        "contact.option8": "Other Inquiry",
+
+        "contact.message": "Message",
+        "contact.messagePlaceholder": "Tell us about your inquiry...",
+        "contact.sendInquiry": "Send Inquiry",
+        "contact.formNote": "Please provide accurate contact information so our team can get back to you.",
+
+        "contact.ctaEyebrow": "LET'S WORK TOGETHER",
+        "contact.ctaTitle": "Looking for Quality Boer Goats, Silage or Agricultural Solutions?",
+        "contact.ctaDescription": "Connect with Jagatpur Agro and explore opportunities for livestock farming, feed production and sustainable agriculture.",
+
+        "contact.callUs": "Call Us",
+        "contact.ctaSendInquiry": "Send an Inquiry",
+        "contact.visitFarm": "Visit Our Farm",
+
+        "contact.formAlert": "Thank you for your inquiry! The contact form is currently a frontend demo.",
+
 
 
 
@@ -384,7 +492,114 @@ window.translations = {
         "keyareas.farmer.benefit3": "प्राविधिक मार्गदर्शन तथा कृषि व्यवस्थापन सहयोग",
         "keyareas.farmer.benefit4": "स्थानीय कृषक समुदायको सुदृढीकरण",
         "keyareas.farmer.benefit5": "दिगो कृषि अभ्यासहरूको प्रवर्द्धन",
-        "keyareas.farmer.button": "किसान सहकार्यबारे जान्नुहोस्"
+        "keyareas.farmer.button": "किसान सहकार्यबारे जान्नुहोस्",
+
+
+        // Services Page
+        "services.title": "हाम्रा सेवाहरू",
+        "services.tagline": "हामी गुणस्तरीय प्रजनन, पशु आहार उत्पादन, किसान सहकार्य र दिगो कृषि अभ्यासमा केन्द्रित एकीकृत कृषि तथा पशुपालन सेवा प्रदान गर्छौँ।",
+
+        // 01 - Boer Goat Breeding
+        "services.boerBreeding.title": "बोयर बाख्रा प्रजनन",
+        "services.boerBreeding.desc1": "हामी गुणस्तरीय नश्ल, व्यवस्थित प्रजनन र उचित पशुपालन व्यवस्थापनमा केन्द्रित रहेर बोयर बाख्रा प्रजनन गर्छौँ।",
+        "services.boerBreeding.desc2": "हाम्रो प्रजनन कार्यक्रम दक्षिण अफ्रिकाबाट आयात गरिएका ११३ वटा शुद्ध नश्लका बोयर बाख्राबाट सुरु भएको हो। हामी अझै पनि गुणस्तरीय प्रजननयोग्य बाख्रा विकासमा केन्द्रित छौँ।",
+
+        // 02 - Purebred Boer Goats
+        "services.purebred.title": "शुद्ध नश्लका बोयर बाख्रा",
+        "services.purebred.desc1": "हामी किसान, व्यावसायिक पशुपालन फार्म र प्रजनन कार्यक्रमका लागि शुद्ध नश्लका बोयर बाख्रा विकास तथा संरक्षण गर्छौँ।",
+        "services.purebred.desc2": "हाम्रो प्राथमिकतामा उचित पहिचान, स्वास्थ्य निगरानी, प्रजनन अभिलेख र वंशावलीमा आधारित व्यवस्थापन पर्छन्।",
+
+        // 03 - Improved Boer Goat Breeding
+        "services.improvedBreeding.title": "उन्नत बोयर बाख्रा प्रजनन",
+        "services.improvedBreeding.desc1": "हाम्रो प्रजनन कार्यक्रमले योजनाबद्ध प्रजनन र गुणस्तरीय प्रजननयोग्य बाख्रामार्फत उन्नत बाख्रा विकासमा सहयोग पुर्‍याउँछ।",
+        "services.improvedBreeding.desc2": "नेपालको पशुपालन प्रणालीअनुकूल बोयर बाख्राका उत्कृष्ट विशेषताहरू समेट्नु हाम्रो उद्देश्य हो।",
+
+        // 04 - Silage Production
+        "services.silage.title": "साइलेज उत्पादन",
+        "services.silage.desc1": "हामी पशु आहारका लागि गुणस्तरीय साइलेज उत्पादन गर्छौँ र मकै खेतीलाई साइलेज उत्पादनसँग जोड्न किसानहरूसँग सहकार्य गर्छौँ।",
+        "services.silage.desc2": "हाम्रो प्रक्रियामा मकै खेती, कटानी, टुक्र्याउने, प्रशोधन, संरक्षण र भण्डारण समावेश छन्।",
+
+        // 05 - Maize Production Collaboration
+        "services.maize.title": "मकै उत्पादनमा सहकार्य",
+        "services.maize.desc1": "हामी मकै उत्पादन प्रक्रियामा किसानहरूलाई सहयोग गर्दै उत्पादित मकैलाई साइलेज उत्पादनसँग जोड्न सहकार्य गर्छौँ।",
+        "services.maize.desc2": "यसले किसानहरूलाई मकै उत्पादनबाट थप मूल्य सिर्जना गर्ने अवसर प्रदान गर्छ।",
+
+        // 06 - Organic Fertilizer
+        "services.fertilizer.title": "जैविक मल",
+        "services.fertilizer.desc1": "हामी पशु मल तथा अन्य जैविक स्रोतहरूको प्रयोगबाट जैविक मल उत्पादन गर्ने दिशामा काम गर्छौँ।",
+        "services.fertilizer.desc2": "गाईको गोबर र बाख्राको मललाई प्रशोधन तथा परिपक्व बनाएर कृषि मलका रूपमा प्रयोग गर्न सकिन्छ। यसले पशुपालनबाट प्राप्त पोषक तत्त्वलाई पुनः माटोमा फर्काउन सहयोग गर्छ।",
+
+        // 07 - Farmer Collaboration
+        "services.farmer.title": "किसान सहकार्य",
+        "services.farmer.desc1": "हामी एकीकृत उत्पादन प्रणाली विकास गर्न किसान, पशुपालन उद्यमी तथा कृषि क्षेत्रका सरोकारवालाहरूसँग सहकार्य गर्छौँ।",
+        "services.farmer.desc2": "हाम्रो दृष्टिकोणले खेती, पशुपालन, पशु आहार र कृषि स्रोतसाधनबीच व्यावहारिक सम्बन्ध स्थापित गर्न जोड दिन्छ।",
+
+        // 08 - Livestock Farming Support
+        "services.livestock.title": "पशुपालन सहयोग",
+        "services.livestock.desc1": "हामी उचित पोषण, प्रजनन अभिलेख, स्वास्थ्य व्यवस्थापन र योजनाबद्ध उत्पादन अभ्यासमार्फत राम्रो पशुपालन व्यवस्थापनलाई प्रोत्साहन गर्छौँ।",
+        "services.livestock.desc2": "किसानहरूलाई उत्पादनशील र दिगो पशुपालन उद्यम निर्माण गर्न सहयोग गर्नु हाम्रो उद्देश्य हो।",
+
+
+        // Contact Page
+        "contact.heroEyebrow": "जगतपुर एग्रोसँग सम्पर्क गर्नुहोस्",
+        "contact.heroTitle": "सँगै मिलेर राम्रो कृषि भविष्य निर्माण गरौँ",
+        "contact.heroDescription": "तपाईं बोयर बाख्रा, प्रजननयोग्य बाख्रा, साइलेज, मकै उत्पादनमा सहकार्य वा जैविक मलमा रुचि राख्नुहुन्छ भने हामी तपाईंको कुरा सुन्न उत्सुक छौँ।",
+
+        "contact.getInTouch": "हामीसँग जोडिनुहोस्",
+        "contact.intro": "पशुपालन, पशु आहार उत्पादन र दिगो कृषिका अवसरहरूबारे जानकारी लिन हामीसँग सम्पर्क गर्नुहोस्।",
+
+        "contact.phone": "फोन",
+        "contact.email": "इमेल",
+        "contact.address": "ठेगाना",
+        "contact.addressName": "भरतपुर, चितवन, नेपाल",
+
+        "contact.businessAreas": "हाम्रा कार्यक्षेत्रहरू",
+        "contact.area1": "बोयर बाख्रा प्रजनन",
+        "contact.area2": "शुद्ध नश्लका बोयर बाख्रा",
+        "contact.area3": "उन्नत बाख्रा प्रजनन",
+        "contact.area4": "साइलेज उत्पादन",
+        "contact.area5": "मकै उत्पादन",
+        "contact.area6": "जैविक मल",
+        "contact.area7": "किसान सहकार्य",
+
+        "contact.tagline": "\"गुणस्तरीय नश्ल। दिगो कृषि। राम्रो भविष्य।\"",
+
+        "contact.formEyebrow": "हामी तपाईंको कुरा सुन्न उत्सुक छौँ",
+        "contact.formTitle": "आफ्नो जिज्ञासा पठाउनुहोस्",
+        "contact.formDescription": "तलको फारम भर्नुहोस् र हामीले तपाईंलाई कसरी सहयोग गर्न सक्छौँ भन्ने जानकारी दिनुहोस्।",
+
+        "contact.fullName": "पूरा नाम",
+        "contact.namePlaceholder": "आफ्नो पूरा नाम लेख्नुहोस्",
+        "contact.phoneNumber": "फोन नम्बर",
+        "contact.phonePlaceholder": "आफ्नो फोन नम्बर लेख्नुहोस्",
+        "contact.emailAddress": "इमेल ठेगाना",
+        "contact.emailPlaceholder": "आफ्नो इमेल ठेगाना लेख्नुहोस्",
+
+        "contact.subject": "विषय",
+        "contact.selectInquiry": "जिज्ञासाको प्रकार छान्नुहोस्",
+        "contact.option1": "बोयर बाख्रा प्रजनन",
+        "contact.option2": "शुद्ध नश्लका बोयर बाख्रा",
+        "contact.option3": "उन्नत बाख्रा प्रजनन",
+        "contact.option4": "साइलेज उत्पादन",
+        "contact.option5": "मकै उत्पादनमा सहकार्य",
+        "contact.option6": "जैविक मल",
+        "contact.option7": "किसान सहकार्य",
+        "contact.option8": "अन्य जिज्ञासा",
+
+        "contact.message": "सन्देश",
+        "contact.messagePlaceholder": "आफ्नो जिज्ञासाबारे लेख्नुहोस्...",
+        "contact.sendInquiry": "जिज्ञासा पठाउनुहोस्",
+        "contact.formNote": "हाम्रो टोलीले तपाईंलाई सम्पर्क गर्न सक्ने गरी सही सम्पर्क विवरण उपलब्ध गराउनुहोस्।",
+
+        "contact.ctaEyebrow": "सँगै सहकार्य गरौँ",
+        "contact.ctaTitle": "गुणस्तरीय बोयर बाख्रा, साइलेज वा कृषि समाधान खोज्दै हुनुहुन्छ?",
+        "contact.ctaDescription": "जगतपुर एग्रोसँग जोडिनुहोस् र पशुपालन, पशु आहार उत्पादन तथा दिगो कृषिका अवसरहरूबारे जान्नुहोस्।",
+
+        "contact.callUs": "हामीलाई फोन गर्नुहोस्",
+        "contact.ctaSendInquiry": "जिज्ञासा पठाउनुहोस्",
+        "contact.visitFarm": "हाम्रो फार्म भ्रमण गर्नुहोस्",
+
+        "contact.formAlert": "तपाईंको जिज्ञासाका लागि धन्यवाद! यो सम्पर्क फारम हाल प्रदर्शनका लागि मात्र तयार गरिएको हो।",
 
 
 
